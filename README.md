@@ -17,7 +17,7 @@ To run the Shopping Cart locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/farhan6393/ECOMZY.git
+git clone https://github.com/farhan6397/ECOMZY.git
 ```
 
 2. Navigate to the project directory:
